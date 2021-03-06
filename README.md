@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-![](https://i.imgur.com/YtMAwa2.gif)
+![](https://i.imgur.com/kYRpilZ.gif)
 
 # Twitter - Part I
 
